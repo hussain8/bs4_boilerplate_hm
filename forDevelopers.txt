@@ -1,0 +1,10 @@
+please delete all ajira.txt
+
+for code:
+you can rename the boilerplate folder.
+open git bash from boilerplate folder and type=
+ npm install {it will install node_modules folder} then
+ npm start {it will create the deleted files & folder of src folder}
+and now its ready to code
+
+ 
